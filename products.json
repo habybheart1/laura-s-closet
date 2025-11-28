@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "new arrival",
+        "price": 200,
+        "image": "images/arrivals.png"
+    },
+    {
+        "id": 2,
+        "name": "summer",
+        "price": 200,
+        "image": "images/summer.png"
+    },
+    {
+        "id": 3,
+        "name": "clothes",
+        "price": 200,
+        "image": "images/clothes.png"
+    },
+    {
+        "id": 4,
+        "name": "items",
+        "price": 200,
+        "image": "images/items.png"
+    },
+    {
+        "id": 5,
+        "name": "product1",
+        "price": 200,
+        "image": "images/product1.png"
+    },
+    {
+        "id": 6,
+        "name": "product2",
+        "price": 200,
+        "image": "images/product2.png"
+    },
+    {
+        "id": 7,
+        "name": "product3",
+        "price": 200,
+        "image": "images/product3.png"
+    },
+    {
+        "id": 8,
+        "name": "product4",
+        "price": 200,
+        "image": "images/product4.png"
+    },
+    {
+        "id": 9,
+        "name": "shoes",
+        "price": 200,
+        "image": "images/shoes.png"
+    }
+]
