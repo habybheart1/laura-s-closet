@@ -19,12 +19,13 @@
   --accent-color: #DE4F46;
  }
  .darkmode{
-  /* --bg-blue-color: #9CA3AF;
+  --bg-blue-color: #9CA3AF;
   --bg-off-white:#101425 ;
   --bg-button: #FFFFFF;
   --logo-color: #FAFAFA;
   --light-li-color: #e7e9ec;
-  --accent-color: #DE4F46; */
+  --accent-color: #DE4F46;
+   --white-color: #070b1d;
   background-color: #070b1d;
   color: var(--white-color);
  }
@@ -107,6 +108,7 @@
     }
   .darkmode #theme-switch .fa-sun{
       display: inline;
+      color: #e7e9ec;
     }
  /* media query for first nav */
  @media screen and (max-width:768px) {
